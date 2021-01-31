@@ -8,7 +8,7 @@ module.exports = {
     head: [
         ['link', { rel: 'icon', href: '/favicon.ico' }],
     ],
-    dest: '/docs/dist',
+    dest: './dist',
     extraWatchFiles: [
         '/docs/README.md',
         '/docs/.vuepress/config.js'
