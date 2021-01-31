@@ -20,12 +20,6 @@ module.exports = {
             { text: 'GitHub', link: 'https://github.com/bingling-sama/omega/'}
         ],
         sidebar: {
-            '/': [
-                '',
-                'start',
-                'about',
-                'thanks'
-            ],
             '/start/': [
                 '',
                 'java',
@@ -35,7 +29,13 @@ module.exports = {
                 'mcp',
                 'forge',
                 'forgegradle'
-            ]
+            ],
+            '/': [
+                '',
+                'start',
+                'about',
+                'thanks',
+            ],
         } 
     }
 }
