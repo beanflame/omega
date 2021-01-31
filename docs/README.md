@@ -5,14 +5,7 @@ heroImage: /icon.png
 heroText: Omega 手册
 tagline: 教练，我想写 mod ！
 actionText: 开始入土 →
-actionLink: /guide/
-# features:
-# - title: 
-#   details: 
-# - title: 
-#   details: 
-# - title: 作者是谁?
-#   details: 本手册是 Lollipop Studio 的各位共同制作的, 更详细的说明可以参见文档内的 [鸣谢名单]
+actionLink: /start
 footer: Copyright © 2020-2021 Lollipop Studio. All rights reserved.
 ---
 

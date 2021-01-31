@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/README.md",
+            "file": "docs/start/README.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/README.md",
+            "file": "docs/start/README.md",
             "mode": "preview"
           }
         },
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/README.md",
+                "file": "docs/start/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,9 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "docs/start/Untitled.md",
+    "Untitled.md",
+    "git.md",
+    "README.md",
+    "docs/start/java.md",
+    "docs/start.md",
+    "docs/thanks.md",
     "docs/README.md",
-    "docs/guide/README.md",
-    "docs/en/README.md",
-    "docs/guide/home.md"
+    "docs/about.md",
+    "docs/guide/README.md"
   ]
 }

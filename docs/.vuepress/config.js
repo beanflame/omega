@@ -18,6 +18,24 @@ module.exports = {
         nav: [
             { text: 'Home', link: '/'},
             { text: 'GitHub', link: 'https://github.com/bingling-sama/omega/'}
-        ]
+        ],
+        sidebar: {
+            '/': [
+                '',
+                'start',
+                'about',
+                'thanks'
+            ],
+            '/start/': [
+                '',
+                'java',
+                'gradle',
+                'git',
+                'mdk',
+                'mcp',
+                'forge',
+                'forgegradle'
+            ]
+        } 
     }
 }
