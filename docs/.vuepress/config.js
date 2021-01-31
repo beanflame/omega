@@ -17,7 +17,7 @@ module.exports = {
         logo: '/icon.png',
         nav: [
             { text: 'Home', link: '/'},
-            { text: 'GitHub', link: '/'}
+            { text: 'GitHub', link: 'https://github.com/bingling-sama/omega/'}
         ]
     }
 }
