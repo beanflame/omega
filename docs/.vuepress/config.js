@@ -22,6 +22,7 @@ module.exports = {
         sidebar: [
             ['/', 'Home'],
             'start',
+            'git',
             'about',
             'thanks'
         ]
