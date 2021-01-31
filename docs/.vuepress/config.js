@@ -19,23 +19,11 @@ module.exports = {
             { text: 'Home', link: '/'},
             { text: 'GitHub', link: 'https://github.com/bingling-sama/omega/'}
         ],
-        sidebar: {
-            '/start/': [
-                '',
-                'java',
-                'gradle',
-                'git',
-                'mdk',
-                'mcp',
-                'forge',
-                'forgegradle'
-            ],
-            '/': [
-                '',
-                'start',
-                'about',
-                'thanks',
-            ],
-        } 
+        sidebar: [
+            ['/', 'Home'],
+            'start',
+            'about',
+            'thanks'
+        ]
     }
 }
