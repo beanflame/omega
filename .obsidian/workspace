@@ -1,0 +1,107 @@
+{
+  "main": {
+    "id": "cd7a13b6ce4642f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "492ca7f1da8ec9f0",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/guide/README.md",
+            "mode": "source"
+          }
+        },
+        "group": "460bf673b1fc7a93"
+      },
+      {
+        "id": "82003cea5fc77c6c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/guide/README.md",
+            "mode": "preview"
+          }
+        },
+        "group": "460bf673b1fc7a93"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "580ccddd7bc6d0ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd77defc36ffe4f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44aca90ac7441ec5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "910b9b514f0184c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2e2dca204ef7f2fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "00b9ff85760bd9e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "432a95347e6eb444",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/guide/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "docs/guide/README.md",
+    "docs/README.md",
+    "docs/en/README.md",
+    "docs/guide/home.md"
+  ]
+}
