@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/guide/README.md",
+            "file": "docs/README.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/guide/README.md",
+            "file": "docs/README.md",
             "mode": "preview"
           }
         },
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/guide/README.md",
+                "file": "docs/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,8 +99,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "docs/guide/README.md",
     "docs/README.md",
+    "docs/guide/README.md",
     "docs/en/README.md",
     "docs/guide/home.md"
   ]
